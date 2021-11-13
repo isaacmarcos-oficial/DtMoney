@@ -16,11 +16,13 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
 
+<br>
+
 <div align="left">  
 
-[MirageJS](https://miragejs.com/)
-[Axios](https://github.com/axios/axios)
-[Polished](https://polished.js.org/)
+- [⚙️ MirageJS](https://miragejs.com/)
+- [⚙️ Axios](https://github.com/axios/axios)
+- [⚙️ Polished](https://polished.js.org/)
 <div>
 <br>
 
